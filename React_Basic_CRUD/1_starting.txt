@@ -1,0 +1,13 @@
+
+$ sudo npm install -g create-react-app@2.1.8
+
+선택 폴더에서 
+$ create-react-app .
+$ npx create-react-app .
+
+$ npm run start
+=> server start
+
+$ npm run build
+
+$ npx serve -s build
