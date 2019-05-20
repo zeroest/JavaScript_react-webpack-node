@@ -4,6 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
+/React_Basic_CRUD/node_modules
+/React_Express/node_modules
+/React_Fundamentals/node_modules
+/Redux-Example/node_modules
+/webpack_basic/node_modules
+/webpack_config/node_modules
 
 # testing
 /coverage
